@@ -1,12 +1,16 @@
-import Api from "./api/api"
+import Header from './components/Header'
+import Cards from './components/Cards'
+import Footer from './components/Footer'
+import './App.css'
 
 function App() {
-
   return (
-    <div>
-      <Api/>
+    <div className="App">
+      <Header />
+        <Cards />
+      <Footer />
     </div>
   )
 }
 
-export default App
+export default App;
