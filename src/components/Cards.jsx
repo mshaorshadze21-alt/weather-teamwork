@@ -4,8 +4,8 @@ function Cards() {
             <div className="cards-container">
                 <div className="card">
                     <h2>batumi</h2>
-                    <h3>time</h3>
-                    <pre>temperature</pre>
+                    <h3>17:00</h3>
+                    <p>temperature</p>
                     <div className="h3">
                         <h3>humidity</h3>
                         <h3>visibility</h3>
@@ -21,8 +21,8 @@ function Cards() {
                 </div>
                 <div className="card">
                     <h2>tbilisi</h2>
-                    <h3>time</h3>
-                    <pre>temperature</pre>
+                    <h3>17:00</h3>
+                    <p>temperature</p>
                     <div className="h3">
                         <h3>humidity</h3>
                         <h3>visibility</h3>
